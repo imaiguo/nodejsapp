@@ -1,3 +1,5 @@
+// 在浏览器 的控制台执行它们
+
 var xml = new XMLHttpRequest();
 var url = "https://test.ephraim.site";
 xml.open("GET", url, true);
